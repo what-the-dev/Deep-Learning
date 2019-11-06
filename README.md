@@ -6,5 +6,5 @@ If you have trouble viewing the notebooks in here, please use [NB Viewer](https:
 ### big_cats
 - Building a model to discern the difference between *Lions* and *Tigers*.
 
-### cheetahs_leopards
+### cheetah_leopard
 - A slightly harder cat problem, building a model to discern the difference between *Cheetahs* and *Leopards*.
